@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="assets/adamw_loss_curve.svg" width="80%">
-  <p>图 1：AdamW 优化器训练 Loss 曲线 (Train)</p>
+  <p>图 1：AdamW 优化器训练 Loss 曲线 </p>
 </div>
 
 ### 3. 核心调试技巧 (Optimization Tips)
